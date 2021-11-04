@@ -8,7 +8,7 @@ function exercise00() {
     // to the code that called the function.
     // however it's commented out
     // remove ONLY the two slashes('/') below
-       //  return "Hello World!"
+        return "Hello World!"
 }
 
 // module exports just allows the code 
